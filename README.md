@@ -96,26 +96,6 @@ Estudiante estudiante = new Estudiante("Juan", "Pérez", 20);
 System.out.println(estudiante.getNombreCompleto());
 ```
 
-------
-
-## 🗂️ Estructura del Proyecto
-
-El proyecto está organizado de la siguiente manera:
-
-Copy
-
-```
-taller-poo/
-├── src/
-│   ├── main/
-│   │   ├── Main.java          # Punto de entrada del programa
-│   ├── models/
-│   │   ├── Estudiante.java    # Clase que representa a un estudiante
-│   │   ├── Profesor.java      # Clase que representa a un profesor
-│   ├── services/
-│   │   ├── GestorEstudiantes.java # Lógica de negocio para gestionar estudiantes
-├── README.md                  # Este archivo
-```
 
 ------
 
